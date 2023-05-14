@@ -1,1 +1,1 @@
-# File-and-directory-management
+Automated scripts
